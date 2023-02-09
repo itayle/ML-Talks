@@ -1,6 +1,6 @@
 # My collection of talks on ML & NLP papers
 There are only slides available here. I hope to add videos in the future.
-# [Using Token-Level Representations for Retrieval](Token_-_Level_Retrieval.pdf)
+# [Using Token-Level Representations for Retrieval](Token_Level_Retrieval.pdf)
 Subjects:
 - Lexical vs Semantic Text Retrieval
 - Information Retrieval Evaluation
